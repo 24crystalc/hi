@@ -1,0 +1,3 @@
+PID controller uses a for loop that controls an object at its target. PID represents Proportional, integral, derivative
+controller. Using the PID, we are able to quickly adjust objects to their targets which makes the PID a really popular 
+controller  in many realms such as robots, cars, and rockets.  
